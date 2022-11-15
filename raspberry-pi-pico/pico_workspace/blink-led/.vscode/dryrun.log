@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/joshua/raspberry-pi-pico/pico_workspace/blink-led'
+make: Leaving directory '/home/joshua/raspberry-pi-pico/pico_workspace/blink-led'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

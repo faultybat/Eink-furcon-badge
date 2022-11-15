@@ -1,0 +1,7 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "epd_5in65f.h": "c",
+        "main.h": "c"
+    }
+}
